@@ -2,7 +2,7 @@ import Contact from './components/contact'
 import Footer from './components/footer'
 import Head from './components/head'
 import Presentation from './components/presentation'
-// import ProjectGrid from './components/projectsGrid'
+import ProjectGrid from './components/projectsGrid'
 import Separator from './components/separator'
 
 function App() {
@@ -14,8 +14,8 @@ function App() {
           <Separator />
           <Presentation />
           <Separator />
-          {/* <ProjectGrid /> */}
-          {/* <Separator /> */}
+          <ProjectGrid />
+          <Separator />
           <Contact />
           <Separator />
           <Footer />

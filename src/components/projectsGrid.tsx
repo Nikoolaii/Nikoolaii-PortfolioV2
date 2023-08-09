@@ -13,7 +13,7 @@ interface Project {
 export default function ProjectGrid() {
   const projects: Project[] = data
 
-  data.forEach((project) => {
+  projects.forEach((project) => {
     console.log(project)
   })
 
