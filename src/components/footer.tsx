@@ -1,8 +1,8 @@
 export default function Footer() {
   return (
     <>
-      <div className='flex flex-wrap items-center text-center'>
-        <p>Made by Nikoolaii</p>
+      <div className='flex flex-wrap items-center justify-center font-medium'>
+        <p>©️ Nikolaï LEMERRE with ♥</p>
       </div>
     </>
   )
