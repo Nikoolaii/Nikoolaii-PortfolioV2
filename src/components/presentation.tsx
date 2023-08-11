@@ -14,7 +14,7 @@ export default function Presentation() {
           Informatique) à Lille et sera elle aussi en alternance.
         </p>
         <p className='text-justify'>
-          J'ai eu l'occasion lors de mon BTS d'effectuer ma deuxième année en
+          J'ai eu l'occasion lors de mon BTS d'éffectuer ma deuxième année en
           alternance, en tant de développeur et gestionnaire de base de données.{' '}
         </p>
         <h1 className='text-lg mt-4 font-medium'>

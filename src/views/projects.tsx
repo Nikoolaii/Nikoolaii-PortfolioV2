@@ -51,14 +51,16 @@ export default function Projects() {
               ))}
             </div>
             <div className='flex justify-end'>
-              <a
-                href={project.url}
-                target='_blank'
-                rel='noopener noreferrer'
-                className='text-white font-bold py-2 px-4 rounded-full hover:text-accent'
-              >
-                View Project
-              </a>
+              {project.url !== '' && (
+                <a
+                  href={project.url}
+                  target='_blank'
+                  rel='noopener noreferrer'
+                  className='text-white font-bold py-2 px-4 rounded-full hover:text-accent'
+                >
+                  Voir le projet
+                </a>
+              )}
             </div>
           </div>
         ))}
