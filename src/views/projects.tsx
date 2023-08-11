@@ -18,7 +18,7 @@ export default function Projects() {
   })
   return (
     <>
-      <div className='grid grid-cols-4 gap-4 text-white bg-primary p-3 m-3 rounded-md font-comfortaa'>
+      <div className='grid lg:grid-cols-4 gap-4 text-white bg-primary p-3 lg:m-3 lg:rounded-md font-comfortaa'>
         {projects.map((project) => (
           <div
             key={project.id}
