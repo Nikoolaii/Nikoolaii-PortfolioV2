@@ -22,7 +22,7 @@ export default function Contact() {
             </a>
           </p>
           <p className='w-full hover:text-subtitle'>
-            <a href='linkedin.com/in/nikolai-lemerre' target='_blank'>
+            <a href='https://linkedin.com/in/nikolai-lemerre' target='_blank'>
               <FaLinkedin className='text-md m-1 text-subtitle inline-block align-bottom' />
               Nikolaï LEMERRE
             </a>

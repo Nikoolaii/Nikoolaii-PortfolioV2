@@ -12,7 +12,7 @@ export default function Head() {
           <a href='https://github.com/Nikoolaii' target='_blank'>
             <FaGithub className='text-md m-1 hover:text-subtitle' />
           </a>
-          <a href='linkedin.com/in/nikolai-lemerre' target='_blank'>
+          <a href='https://linkedin.com/in/nikolai-lemerre' target='_blank'>
             <FaLinkedin className='text-md m-1 hover:text-subtitle' />
           </a>
         </div>
