@@ -8,7 +8,7 @@ import Separator from './components/separator'
 function App() {
   return (
     <>
-      <div className='flex justify-center items-center md:mt-3 font-comfortaa font-light'>
+      <div className='flex justify-center items-center md:mt-3 font-comfortaa font-light md:mb-3'>
         <div className='md:w-2/3 p-4 bg-primary text-left md:rounded-md'>
           <Head />
           <Separator />

@@ -1,42 +1,102 @@
 [
   {
     "id": "1",
-    "title": "The First Post",
-    "shortDescription": "This is the first post",
-    "longDescription": "This is the first post. It is a very good post. It is the best post. It",
+    "title": "Portfolio",
+    "shortDescription": "Ce portfolio est un site pour me mettre en avant",
+    "longDescription": "L'objectif de ce projet est de mettre en avant mes compétences, mes projets et mes expériences professionnelles.",
     "technologies": [
-      "Java",
-      "Spring",
-      "Hibernate",
-      "JSP",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "jQuery",
-      "Bootstrap",
-      "MySQL"
+      "Typescript",
+      "React",
+      "React Icons",
+      "Tailwind CSS",
+      "Vercel"
     ],
-    "image": ["images/1.jpg", "images/2.jpg", "images/3.jpg"],
-    "url": "https://www.google.com"
+    "image": [],
+    "url": "https://github.com/Nikoolaii/Portfolio-react"
   },
   {
     "id": "2",
-    "title": "The Second Post",
-    "shortDescription": "This is the first post",
-    "longDescription": "This is the first post. It is a very good post. It is the best post. It",
-    "technologies": [
-      "Java",
-      "Spring",
-      "Hibernate",
-      "JSP",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "jQuery",
-      "Bootstrap",
-      "MySQL"
+    "title": "Marie TEAM",
+    "shortDescription": "Site de réservation de traversée en bateau",
+    "longDescription": "Dans le cadre de mon bts, j'ai était dans l'objectif de réaliser un site de reservation de traversée en bateau. Ce projet à était réalisé en équipe. ",
+    "technologies": ["PHP", "Tailwind CSS", "MySQL", "HTML"],
+    "image": [
+      "marieteam_accueil.png",
+      "marieteam_admin_2.png",
+      "marieteam_trajets.png"
     ],
-    "image": ["images/1.jpg"],
-    "url": "https://www.google.com"
+    "url": "https://github.com/VDEV-BTS/website"
+  },
+  {
+    "id": "3",
+    "title": "Marie TEAM",
+    "shortDescription": "Logiciel de création de PDF en lien avec une base de données",
+    "longDescription": "Dans le cadre de mon bts, j'ai était chargé de la mise en place d'un logiciel client lourd de création de fichier pdf servant de brochures. ",
+    "technologies": ["JAVA", "Swing", "MySQL"],
+    "image": ["marieteam_logiciel_1.png", "marieteam_logiciel_2.png"],
+    "url": "https://github.com/VDEV-BTS/client-pdf/"
+  },
+  {
+    "id": "4",
+    "title": "Plumbum Intérieur",
+    "shortDescription": "Site vitre pour une architecte d'intérieure",
+    "longDescription": "Lors de mon stage chez Anetmo, j'ai eu l'occasion de réaliser un site vitre pour une décoratrice d'intérieure, j'y ai appris la relation client, afin de répondre au maximum à ses demandes et à ses attentes. J'ai aussi était chargé d'optimisé le référencement du site.",
+    "technologies": ["Wordpress", "OVH", "Yaost SEO"],
+    "image": ["plumbum.png"],
+    "url": "https://www.plumbum-interieur.fr/"
+  },
+  {
+    "id": "5",
+    "title": "Solana Panel",
+    "shortDescription": "Site web de gestion des ventes",
+    "longDescription": "Pendant mon stage, j'ai aussi du réaliser un pannel de statistiques de ventes pour une entreprises de e-liquides de cigarettes éléctroniques. ",
+    "technologies": ["PHP", "Javascript", "Datatables", "MySQL", "Morris.js"],
+    "image": ["solana_1.png", "solana_2.png", "solana_3.png"],
+    "url": "#"
+  },
+  {
+    "id": "6",
+    "title": "SOSCalculateur",
+    "shortDescription": "Site de vente de calculateurs moteur",
+    "longDescription": "Lors de cette mission, j'ai était chargé de réaliser et confectionner un site de e-commerce afin de vendre des calculateurs moteurs. ",
+    "technologies": ["Prestashop", "OVH"],
+    "image": ["soscalculateur.png"],
+    "url": "https://soscalculateur.fr/"
+  },
+  {
+    "id": "7",
+    "title": "OLS Tools",
+    "shortDescription": "Site de vente de logiciel d'automatisations pour WinOLS",
+    "longDescription": "Ce site à était réalisé dans l'objectif de vendre des logiciels d'automatisation pour le logiciel d'analyse de cartographie moteur WinOLS. ",
+    "technologies": ["Wordpress", "WooCommerce", "OVH"],
+    "image": ["ols_tools.png"],
+    "url": "https://olstools.com/"
+  },
+  {
+    "id": "8",
+    "title": "OLS Exporter",
+    "shortDescription": "Logiciel d'automatisation d'exportation",
+    "longDescription": "Ce logiciel est un logiciel permettant d'exporter facilement des projets et des scripts WinOLS, il a pour but de faciliter cette tâche. ",
+    "technologies": ["Python", "Tkinter", "pywin32"],
+    "image": ["ols_exporter.png"],
+    "url": "https://olstools.com/produit/ols-exporter-winols-exporter/"
+  },
+  {
+    "id": "9",
+    "title": "MyGamingList",
+    "shortDescription": "L'api pour le site MyGamingList",
+    "longDescription": "Le but de cette api est de facilité l'accès aux donnés pour le site MyGamingList. ",
+    "technologies": ["Typescript", "Prisma", "Express", "Node.js"],
+    "image": [],
+    "url": "https://github.com/Nikoolaii/mgl-api"
+  },
+  {
+    "id": "10",
+    "title": "MyGamingList",
+    "shortDescription": "La partie front-end du site MyGamingList",
+    "longDescription": "MyGamingList est un site permettant de créer et organiser des collections de jeux vidéos, le projet est encore en développement. ",
+    "technologies": ["Typescript", "React"],
+    "image": [],
+    "url": "https://github.com/Nikoolaii/mgl-front"
   }
 ]

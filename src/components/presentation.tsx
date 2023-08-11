@@ -25,7 +25,7 @@ export default function Presentation() {
           en alternance chez{' '}
           <a
             href='https://www.netim.com/fr'
-            className='text-accent'
+            className='text-accent hover:text-secondary'
             target='_blank'
           >
             Netim
@@ -36,7 +36,7 @@ export default function Presentation() {
           de données et développeur en alternance chez{' '}
           <a
             href='https://www.nordreprog.fr/'
-            className='text-accent'
+            className='text-accent hover:text-secondary'
             target='_blank'
           >
             NordReprog
@@ -47,7 +47,7 @@ export default function Presentation() {
           développement web chez{' '}
           <a
             href='https://www.anetmo.com/'
-            className='text-accent'
+            className='text-accent hover:text-secondary'
             target='_blank'
           >
             Anetmo

@@ -13,7 +13,8 @@ export default {
       secondary: '#84A98C',
       subtitle: '#52796F',
       accent: '#354F52',
-      dark: '#2F3E46'
+      dark: '#2F3E46',
+      white: '#FFFFFF'
     },
     fontFamily: {
       comfortaa: ['Comfortaa', 'sans-serif']
