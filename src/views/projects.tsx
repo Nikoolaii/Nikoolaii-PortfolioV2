@@ -12,10 +12,6 @@ interface Project {
 
 export default function Projects() {
   const projects: Project[] = data
-
-  projects.forEach((project) => {
-    console.log(project)
-  })
   return (
     <>
       <div className='grid lg:grid-cols-4 gap-4 text-white bg-primary p-3 lg:m-3 lg:rounded-md font-comfortaa'>
