@@ -77,7 +77,7 @@
     "title": "OLS Exporter",
     "shortDescription": "Logiciel d'automatisation d'exportation",
     "longDescription": "Ce logiciel est un logiciel permettant d'exporter facilement des projets et des scripts WinOLS, il a pour but de faciliter cette tâche. ",
-    "technologies": ["Python", "Tkinter", "pywin32"],
+    "technologies": ["Python", "Tkinter", "pywinauto", "WinOLS"],
     "image": ["ols_exporter.png"],
     "url": "https://olstools.com/produit/ols-exporter-winols-exporter/"
   },
@@ -96,6 +96,15 @@
     "shortDescription": "La partie front-end du site MyGamingList",
     "longDescription": "MyGamingList est un site permettant de créer et organiser des collections de jeux vidéos, le projet est encore en développement. ",
     "technologies": ["Typescript", "React"],
+    "image": [],
+    "url": "https://github.com/Nikoolaii/mgl-front"
+  },
+  {
+    "id": "11",
+    "title": "OLS Propagator",
+    "shortDescription": "Un logiciel de propagation de fichiers WinOLS",
+    "longDescription": "Ce logiciel permet de propager toutes les versions d'un projet WinOLS vers les autres projets compatibles selon le pourcentage indiqué. ",
+    "technologies": ["Python", "Tkinter", "pywinauto", "WinOLS"],
     "image": [],
     "url": "https://github.com/Nikoolaii/mgl-front"
   }
