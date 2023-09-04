@@ -105,7 +105,7 @@
     "shortDescription": "Un logiciel de propagation de fichiers WinOLS",
     "longDescription": "Ce logiciel permet de propager toutes les versions d'un projet WinOLS vers les autres projets compatibles selon le pourcentage indiqué. ",
     "technologies": ["Python", "Tkinter", "pywinauto", "WinOLS"],
-    "image": [],
-    "url": "https://github.com/Nikoolaii/mgl-front"
+    "image": ["ols_pp.jpeg"],
+    "url": "https://olstools.com/produit/ols-propagator/"
   }
 ]
