@@ -16,10 +16,6 @@ export default function ProjectGrid() {
 
   const nbProjects: number = projects.length
 
-  projects.forEach((project) => {
-    console.log(project)
-  })
-
   return (
     <>
       <h1 className='text-xl font-medium mb-2'>Mes projets</h1>
